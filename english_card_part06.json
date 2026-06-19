@@ -1,0 +1,402 @@
+[
+  {
+    "ko": "몇 시에 주무시나요?",
+    "en": "What time do you go to bed?"
+  },
+  {
+    "ko": "저 진지해요.",
+    "en": "I'm serious."
+  },
+  {
+    "ko": "잘 들리세요?",
+    "en": "Can you hear me now?"
+  },
+  {
+    "ko": "골프를 쳐본 적이 없어요.",
+    "en": "I never play golf."
+  },
+  {
+    "ko": "아니라고 생각해요.",
+    "en": "I think not."
+  },
+  {
+    "ko": "그는 그의 방을 정돈했어요.",
+    "en": "He tidied up his room."
+  },
+  {
+    "ko": "약간 현기증이 나요.",
+    "en": "I feel a little dizzy."
+  },
+  {
+    "ko": "이 음식 이름이 뭐예요?",
+    "en": "What is this dish called?"
+  },
+  {
+    "ko": "너무 춥지 않나요?",
+    "en": "It's freezing cold, isn't it?"
+  },
+  {
+    "ko": "다음엔 뭘 해야 하나요?",
+    "en": "What should I do next?"
+  },
+  {
+    "ko": "그냥 농담이었어요.",
+    "en": "It's just a joke."
+  },
+  {
+    "ko": "무서워 죽겠어요.",
+    "en": "I am scared to death."
+  },
+  {
+    "ko": "길을 잃었어요.",
+    "en": "I got lost."
+  },
+  {
+    "ko": "취미가 뭐예요?",
+    "en": "What is your hobby?"
+  },
+  {
+    "ko": "질문 있습니다.",
+    "en": "I have a question."
+  },
+  {
+    "ko": "왜 그렇게 생각하세요?",
+    "en": "What makes you think so?"
+  },
+  {
+    "ko": "언제가 편하세요?",
+    "en": "When can you make it?"
+  },
+  {
+    "ko": "그는 저한테 화가 나 있어요.",
+    "en": "He got angry at me."
+  },
+  {
+    "ko": "아무것도 아닌걸요.",
+    "en": "It's nothing."
+  },
+  {
+    "ko": "저는 당신에게 실망했어요.",
+    "en": "I'm disappointed in you."
+  },
+  {
+    "ko": "축구에 관심 있어요.",
+    "en": "I'm interested in soccer."
+  },
+  {
+    "ko": "어지러워요.",
+    "en": "I feel dizzy."
+  },
+  {
+    "ko": "곧 좋아지기를 바랄게요.",
+    "en": "I hope you get well soon."
+  },
+  {
+    "ko": "목이 아파요.",
+    "en": "I have a sore throat."
+  },
+  {
+    "ko": "하루에 얼마입니까?",
+    "en": "How much per day?"
+  },
+  {
+    "ko": "내일 뭐 할 거예요?",
+    "en": "What are you doing tomorrow?"
+  },
+  {
+    "ko": "무엇을 찾고 계시나요?",
+    "en": "What are you looking for?"
+  },
+  {
+    "ko": "저는 써니라는 고양이를 키우고 있어요.",
+    "en": "I have a cat called Sunny."
+  },
+  {
+    "ko": "다시 만나서 기뻐요.",
+    "en": "I'm glad to see you again."
+  },
+  {
+    "ko": "배불러요.",
+    "en": "I'm full."
+  },
+  {
+    "ko": "별일 없어요.",
+    "en": "Nothing special."
+  },
+  {
+    "ko": "저는 조언이 필요해요.",
+    "en": "I need some advice."
+  },
+  {
+    "ko": "네, 그게 좋겠어요.",
+    "en": "Yes, that's fine."
+  },
+  {
+    "ko": "피아노 칠 줄 아세요?",
+    "en": "Do you play the piano?"
+  },
+  {
+    "ko": "뭐 좀 가져다 드릴까요?",
+    "en": "Can I get you something?"
+  },
+  {
+    "ko": "진짜 가야 해요?",
+    "en": "Do you really have to go?"
+  },
+  {
+    "ko": "레시피 아세요?",
+    "en": "Do you know the recipe?"
+  },
+  {
+    "ko": "셔츠를 벗어 주실래요?",
+    "en": "Take off your shirt."
+  },
+  {
+    "ko": "좀 더 자세하게 말해 주시겠어요?",
+    "en": "More specific, please."
+  },
+  {
+    "ko": "진짜 좋은 집에 사시네요.",
+    "en": "You have a nice house."
+  },
+  {
+    "ko": "다시 한번 말해주세요.",
+    "en": "Please repeat again."
+  },
+  {
+    "ko": "무슨 걱정거리가 있나요?",
+    "en": "What's bothering you?"
+  },
+  {
+    "ko": "무엇을 도와드릴까요?",
+    "en": "What can I do for you?"
+  },
+  {
+    "ko": "얼마나 먼가요?",
+    "en": "How far is it?"
+  },
+  {
+    "ko": "언제 배달 되었어요?",
+    "en": "When was it delivered?"
+  },
+  {
+    "ko": "이건 제가 좋아하는 음식이에요.",
+    "en": "This is my favorite dish."
+  },
+  {
+    "ko": "이거 다 원합니다.",
+    "en": "I want all of this."
+  },
+  {
+    "ko": "의사한테 진료를 받고 싶어요.",
+    "en": "I'd like to see a doctor."
+  },
+  {
+    "ko": "어떤 색을 원하세요?",
+    "en": "What color do you want?"
+  },
+  {
+    "ko": "엎드려 누워주세요.",
+    "en": "Please lie on your stomach."
+  },
+  {
+    "ko": "피아노 조금 칠 수 있어요.",
+    "en": "I can play the piano a little."
+  },
+  {
+    "ko": "병원에 가보는 게 좋겠어요.",
+    "en": "You'd better go see a doctor."
+  },
+  {
+    "ko": "생일이 언제예요?",
+    "en": "When is your birthday?"
+  },
+  {
+    "ko": "저는 결정을 해야 해요.",
+    "en": "I have to make a decision."
+  },
+  {
+    "ko": "제가 낼게요.",
+    "en": "Let me pay."
+  },
+  {
+    "ko": "기분이 정말 우울해요.",
+    "en": "I feel really down."
+  },
+  {
+    "ko": "이것보다 좋을 순 없죠 (최고예요).",
+    "en": "It can't get better than this."
+  },
+  {
+    "ko": "즐거운 시간 되세요.",
+    "en": "Have a good time."
+  },
+  {
+    "ko": "토요일 밤에 시간 있으세요?",
+    "en": "Are you free on Saturday night?"
+  },
+  {
+    "ko": "당신한테 잘 맞았으면 좋겠어요.",
+    "en": "I hope this fits you."
+  },
+  {
+    "ko": "다른 생각이 있습니다.",
+    "en": "I have another idea."
+  },
+  {
+    "ko": "지금 바쁘신가요?",
+    "en": "Are you busy now?"
+  },
+  {
+    "ko": "뭔가 좋은 냄새가 나요.",
+    "en": "Something smells good."
+  },
+  {
+    "ko": "한번 입어보고 싶어요.",
+    "en": "I'd like to try it on."
+  },
+  {
+    "ko": "재즈를 좋아해요.",
+    "en": "I love jazz."
+  },
+  {
+    "ko": "피자 한 조각 주세요.",
+    "en": "A slice of pizza, please."
+  },
+  {
+    "ko": "근처에 커피숍이 있나요?",
+    "en": "Is there a coffee shop nearby?"
+  },
+  {
+    "ko": "너 이 사진 잘 나왔다.",
+    "en": "You look good in this picture."
+  },
+  {
+    "ko": "칼에 손가락을 베였어요.",
+    "en": "I cut my finger."
+  },
+  {
+    "ko": "아파트/숙소를 구해야 해요.",
+    "en": "I need to find an apartment."
+  },
+  {
+    "ko": "왜요?",
+    "en": "How come?"
+  },
+  {
+    "ko": "지금 몇 과를 할 차례인가요?",
+    "en": "What lesson are we on now?"
+  },
+  {
+    "ko": "올라가나요?",
+    "en": "Going up?"
+  },
+  {
+    "ko": "티켓 두 장 주세요.",
+    "en": "Two tickets, please."
+  },
+  {
+    "ko": "들려요.",
+    "en": "I hear you."
+  },
+  {
+    "ko": "아기 생긴 거 축하드려요.",
+    "en": "I'm glad you have a baby."
+  },
+  {
+    "ko": "줄 서 계신 거죠?",
+    "en": "Are you in line?"
+  },
+  {
+    "ko": "저는 사무실에서 일해요.",
+    "en": "I'm an office worker."
+  },
+  {
+    "ko": "제 시계는 3분 빨라요.",
+    "en": "My watch is three minutes fast."
+  },
+  {
+    "ko": "내가 따라가도 될까요?",
+    "en": "Do you mind if we tag along?"
+  },
+  {
+    "ko": "왜 그런 얘기를 꺼내요?",
+    "en": "Why would you bring that up?"
+  },
+  {
+    "ko": "내가 생각해봤는데.",
+    "en": "I've been thinking."
+  },
+  {
+    "ko": "어떻게 그런 말을 할 수 있어?",
+    "en": "How could you say that?"
+  },
+  {
+    "ko": "전 그쪽에 손 떼고 다 잊었어요.",
+    "en": "I left that life behind."
+  },
+  {
+    "ko": "빨래하고 있나요?",
+    "en": "Are you doing laundry?"
+  },
+  {
+    "ko": "돌이켜 보니.",
+    "en": "In hindsight."
+  },
+  {
+    "ko": "저는 항상 그녀와 함께 있고 싶었습니다.",
+    "en": "I always wanted to be with her."
+  },
+  {
+    "ko": "완전 그렇죠.",
+    "en": "Absolutely."
+  },
+  {
+    "ko": "제 말씀 이해하고 계시죠?",
+    "en": "Are you following me?"
+  },
+  {
+    "ko": "네 말 이해가 안 돼.",
+    "en": "I'm not following you."
+  },
+  {
+    "ko": "여기서 드실 건가요, 가져가실 건가요?",
+    "en": "For here or to go?"
+  },
+  {
+    "ko": "참고로 말씀드리자면.",
+    "en": "For your information."
+  },
+  {
+    "ko": "있잖아 (본론을 말하자면).",
+    "en": "Here is the thing."
+  },
+  {
+    "ko": "그거 알아?",
+    "en": "You know what?"
+  },
+  {
+    "ko": "이해가 안 돼요.",
+    "en": "I don't get it."
+  },
+  {
+    "ko": "전 괜찮아요.",
+    "en": "I'm good."
+  },
+  {
+    "ko": "그 말 안 믿어요.",
+    "en": "I'm not buying it."
+  },
+  {
+    "ko": "제가 할게요.",
+    "en": "I'm on it."
+  },
+  {
+    "ko": "별일 아니에요.",
+    "en": "It's no big deal."
+  },
+  {
+    "ko": "나한테 맡겨요.",
+    "en": "Leave it to me."
+  }
+]

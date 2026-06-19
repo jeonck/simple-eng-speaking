@@ -1,0 +1,59 @@
+<!DOCTYPE html>
+<html lang="ko">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>영어 카드 학습 프로그램</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <div class="container">
+        <div class="control-panel">
+            <div class="control-group">
+                <label for="partSelect">학습 파트 선택:</label>
+                <select id="partSelect">
+                    <option value="01">Part 01 (1~100)</option>
+                    <option value="02">Part 02 (101~200)</option>
+                    <option value="03">Part 03 (201~300)</option>
+                    <option value="04">Part 04 (301~400)</option>
+                    <option value="05">Part 05 (401~500)</option>
+                    <option value="06">Part 06 (501~600)</option>
+                    <option value="07">Part 07 (601~700)</option>
+                    <option value="08">Part 08 (701~800)</option>
+                    <option value="09">Part 09 (801~900)</option>
+                    <option value="10">Part 10 (901~1000)</option>
+                    <option value="11">Part 11 (1001~1100)</option>
+                    <option value="12">Part 12 (1101~1200)</option>
+                    <option value="13">Part 13 (1201~1300)</option>
+                    <option value="14">Part 14 (1301~1400)</option>
+                </select>
+            </div>
+            
+            <div class="control-group">
+                <label for="cardInterval">카드 전환 주기 (초):</label>
+                <input type="number" id="cardInterval" value="5" min="2" step="0.5">
+            </div>
+
+            <div class="control-group">
+                <label for="englishDelay">영어 표시 지연 (초):</label>
+                <input type="number" id="englishDelay" value="2" min="0" step="0.1">
+            </div>
+        </div>
+
+        <div class="card-wrapper">
+            <div class="card">
+                <div class="text-en" id="textEn">Loading...</div>
+                <div class="text-ko" id="textKo">데이터를 불러오는 중...</div>
+            </div>
+        </div>
+
+        <div class="button-panel">
+            <button id="prevBtn">이전</button>
+            <button id="toggleBtn">정지</button>
+            <button id="nextBtn">다음</button>
+        </div>
+    </div>
+
+    <script src="script.js"></script>
+</body>
+</html>

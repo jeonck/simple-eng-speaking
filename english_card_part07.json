@@ -1,0 +1,406 @@
+[
+  {
+    "ko": "파티를 열어요.",
+    "en": "Let's throw a party."
+  },
+  {
+    "ko": "절대 안 돼요.",
+    "en": "No way."
+  },
+  {
+    "ko": "다음에 봐요.",
+    "en": "See you around."
+  },
+  {
+    "ko": "미리 알려주셔서 감사합니다.",
+    "en": "Thanks for the heads-up."
+  },
+  {
+    "ko": "징그러워요.",
+    "en": "That's gross."
+  },
+  {
+    "ko": "저도 마찬가지예요 (동병상련이네요).",
+    "en": "Welcome to the club."
+  },
+  {
+    "ko": "그동안 어떻게 지내셨어요?",
+    "en": "What have you been up to?"
+  },
+  {
+    "ko": "좋은 생각 없어요?",
+    "en": "Any good ideas?"
+  },
+  {
+    "ko": "누구 집에 없어요?",
+    "en": "Anybody home?"
+  },
+  {
+    "ko": "집에 가세요?",
+    "en": "Are you going home?"
+  },
+  {
+    "ko": "줄 서고 계신 건가요?",
+    "en": "Are you in line?"
+  },
+  {
+    "ko": "제 말씀 듣고 계시나요?",
+    "en": "Are you listening to me?"
+  },
+  {
+    "ko": "저한테 화났어요?",
+    "en": "Are you mad at me?"
+  },
+  {
+    "ko": "괜찮으세요?",
+    "en": "Are you okay?"
+  },
+  {
+    "ko": "정말이에요?",
+    "en": "Are you serious?"
+  },
+  {
+    "ko": "아무 때나 전화 주세요.",
+    "en": "Call me anytime."
+  },
+  {
+    "ko": "집에 도착하면 전화 주세요.",
+    "en": "Call me when you get home."
+  },
+  {
+    "ko": "전화번호 알려주시겠어요?",
+    "en": "Can I get your number?"
+  },
+  {
+    "ko": "한입 먹을 수 있을까요?",
+    "en": "Can I have a bite?"
+  },
+  {
+    "ko": "오후 2시에 만날 수 있을까요?",
+    "en": "Can I see you at 2 PM?"
+  },
+  {
+    "ko": "여기 앉아도 돼요?",
+    "en": "Can I sit here?"
+  },
+  {
+    "ko": "이거 입어봐도 돼요?",
+    "en": "Can I try this on?"
+  },
+  {
+    "ko": "이거 써도 돼요?",
+    "en": "Can I use that?"
+  },
+  {
+    "ko": "메뉴판 주시겠어요?",
+    "en": "Can we get a menu?"
+  },
+  {
+    "ko": "요리할 줄 아세요?",
+    "en": "Can you cook?"
+  },
+  {
+    "ko": "네, 저 요리 잘해요.",
+    "en": "Yes, I'm a good cook."
+  },
+  {
+    "ko": "맞혀 보시겠어요?",
+    "en": "Can you guess?"
+  },
+  {
+    "ko": "이제 제 말 들리나요?",
+    "en": "Can you hear me now?"
+  },
+  {
+    "ko": "나 좀 데리러 올 수 있어요?",
+    "en": "Can you pick me up?"
+  },
+  {
+    "ko": "TV 좀 꺼 주시겠어요?",
+    "en": "Can you turn off the TV?"
+  },
+  {
+    "ko": "여기에 적어 주시겠어요?",
+    "en": "Can you write it down here?"
+  },
+  {
+    "ko": "빨리 보고 싶어요.",
+    "en": "Can't wait to see it."
+  },
+  {
+    "ko": "계산서 좀 주세요.",
+    "en": "Check, please."
+  },
+  {
+    "ko": "제 가방 좀 봐주실래요?",
+    "en": "Watch my bag."
+  },
+  {
+    "ko": "매운 음식 좋아하세요?",
+    "en": "Do you like spicy food?"
+  },
+  {
+    "ko": "마음에 드세요?",
+    "en": "Do you like it?"
+  },
+  {
+    "ko": "커피 드시겠어요?",
+    "en": "Do you want some coffee?"
+  },
+  {
+    "ko": "더 드시겠어요?",
+    "en": "Do you want some more?"
+  },
+  {
+    "ko": "그거 사실 건가요?",
+    "en": "Do you want to buy it?"
+  },
+  {
+    "ko": "안전 운전하세요.",
+    "en": "Drive safely."
+  },
+  {
+    "ko": "맛있게 드세요.",
+    "en": "Enjoy your meal."
+  },
+  {
+    "ko": "즐겁게 보내요.",
+    "en": "Enjoy yourself."
+  },
+  {
+    "ko": "충분하니까 그만해요.",
+    "en": "Enough is enough."
+  },
+  {
+    "ko": "다 잘 될 거예요.",
+    "en": "Everything's gonna be fine."
+  },
+  {
+    "ko": "완전 맞아요.",
+    "en": "Exactly."
+  },
+  {
+    "ko": "잊어버리세요.",
+    "en": "Forget it."
+  },
+  {
+    "ko": "전화해 주세요.",
+    "en": "Give me a call."
+  },
+  {
+    "ko": "술 한잔 어때요?",
+    "en": "How about a drink?"
+  },
+  {
+    "ko": "전부 합해서 얼마인가요?",
+    "en": "How much is it all together?"
+  },
+  {
+    "ko": "그녀는 어떻게 지내요?",
+    "en": "How's she doing?"
+  },
+  {
+    "ko": "요즘 사업 어때요?",
+    "en": "How's your business?"
+  },
+  {
+    "ko": "난 안 믿어요.",
+    "en": "I don't buy it."
+  },
+  {
+    "ko": "시간이 거의 없어요.",
+    "en": "I barely have time."
+  },
+  {
+    "ko": "그 여자를 거의 몰라요.",
+    "en": "I barely know her."
+  },
+  {
+    "ko": "그건 제가 처리할 수 있어요.",
+    "en": "I can handle it."
+  },
+  {
+    "ko": "더 이상은 감당할 수 없어요.",
+    "en": "I can't handle it anymore."
+  },
+  {
+    "ko": "장담은 못 해요.",
+    "en": "I can't say for sure."
+  },
+  {
+    "ko": "형편이 안 돼요.",
+    "en": "I can't afford that."
+  },
+  {
+    "ko": "더 크게 말해주세요.",
+    "en": "I can't hear you."
+  },
+  {
+    "ko": "어쩔 수 없어요.",
+    "en": "I can't help it."
+  },
+  {
+    "ko": "제시간에 못 갈 것 같아요.",
+    "en": "I can't make it on time."
+  },
+  {
+    "ko": "참을 수가 없어요.",
+    "en": "I can't stand that."
+  },
+  {
+    "ko": "더 이상은 못 참겠어요.",
+    "en": "I can't stand it anymore."
+  },
+  {
+    "ko": "컨디션이 안 좋아요.",
+    "en": "I don't feel good."
+  },
+  {
+    "ko": "알고 싶지 않아요.",
+    "en": "I don't want to know."
+  },
+  {
+    "ko": "토할 것 같아요.",
+    "en": "I feel like throwing up."
+  },
+  {
+    "ko": "저도 같은 생각이에요.",
+    "en": "I feel the same way."
+  },
+  {
+    "ko": "곤히 잠들었어요.",
+    "en": "I fell fast asleep."
+  },
+  {
+    "ko": "휴대폰 충전하는 것을 잊어버렸어요.",
+    "en": "I forgot to charge my phone."
+  },
+  {
+    "ko": "주차 위반 딱지를 끊었어요.",
+    "en": "I got a parking ticket."
+  },
+  {
+    "ko": "주차 도장 좀 찍어줄래요?",
+    "en": "Can you validate my parking?"
+  },
+  {
+    "ko": "승진했어요.",
+    "en": "I got promoted."
+  },
+  {
+    "ko": "식욕이 없어요.",
+    "en": "I have no appetite."
+  },
+  {
+    "ko": "그와 연락이 끊겼어요.",
+    "en": "I lost contact with him."
+  },
+  {
+    "ko": "시간 가는 줄 몰랐어요.",
+    "en": "I lost track of time."
+  },
+  {
+    "ko": "그거 정말 좋아요.",
+    "en": "I love it."
+  },
+  {
+    "ko": "해냈어요.",
+    "en": "I made it."
+  },
+  {
+    "ko": "화장실 다녀올게요.",
+    "en": "I need to go to the restroom."
+  },
+  {
+    "ko": "할 말이 있어요.",
+    "en": "I need to talk to you."
+  },
+  {
+    "ko": "신세 한번 졌습니다.",
+    "en": "I owe you one."
+  },
+  {
+    "ko": "비가 내릴 것 같아요.",
+    "en": "I think it's going to rain."
+  },
+  {
+    "ko": "저도 그렇게 생각해요.",
+    "en": "I think so."
+  },
+  {
+    "ko": "무서워 죽는 줄 알았어요.",
+    "en": "I was scared to death."
+  },
+  {
+    "ko": "저 지금 가야 해요.",
+    "en": "I gotta go now."
+  },
+  {
+    "ko": "이만 가봐야겠어요.",
+    "en": "I'd better get going."
+  },
+  {
+    "ko": "금방 돌아올게요.",
+    "en": "I'll be right back."
+  },
+  {
+    "ko": "창가에 앉고 싶어요.",
+    "en": "I'd like to sit by the window."
+  },
+  {
+    "ko": "앞쪽에 앉고 싶어요.",
+    "en": "I'd like to sit in the front."
+  },
+  {
+    "ko": "모든 일이 잘 되시길 바랄게요.",
+    "en": "I wish you the best."
+  },
+  {
+    "ko": "혼잣말을 하고 있었어요.",
+    "en": "I was talking to myself."
+  },
+  {
+    "ko": "제가 연락할게요 (계속 연락하자).",
+    "en": "I'll be in touch."
+  },
+  {
+    "ko": "금방 갈게요.",
+    "en": "I'll be right there."
+  },
+  {
+    "ko": "제가 알아서 할게요 (해결책을 찾을게요).",
+    "en": "I'll figure it out."
+  },
+  {
+    "ko": "덕분에 살았어요.",
+    "en": "You are a lifesaver."
+  },
+  {
+    "ko": "도와주셔서 감사합니다.",
+    "en": "Thanks for helping me out."
+  },
+  {
+    "ko": "저기서 내려주세요.",
+    "en": "Please drop me off over there."
+  },
+  {
+    "ko": "한 번 더 생각해 볼게요.",
+    "en": "I'll think about it again."
+  },
+  {
+    "ko": "다음번에는 제가 낼게요.",
+    "en": "I'll treat you next time."
+  },
+  {
+    "ko": "오늘 제가 살게요.",
+    "en": "It's on me today."
+  },
+  {
+    "ko": "공짜입니다.",
+    "en": "It's free of charge."
+  },
+  {
+    "ko": "지금 막 나가려던 참이에요.",
+    "en": "I'm just about to leave now."
+  }
+]

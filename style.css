@@ -1,0 +1,126 @@
+:root {
+    --text-main: #2c3e50;
+    --text-sub: #7f8c8d;
+    --bg-color: #f5f7fa;
+}
+
+body {
+    margin: 0;
+    padding: 0;
+    background-color: var(--bg-color);
+    font-family: 'Malgun Gothic', sans-serif;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    min-height: 100vh;
+}
+
+.container {
+    width: 90%;
+    max-width: 600px;
+    background: #ffffff;
+    padding: 30px;
+    border-radius: 20px;
+    box-shadow: 0 10px 30px rgba(0,0,0,0.08);
+}
+
+.control-panel {
+    display: flex;
+    flex-direction: column;
+    gap: 15px;
+    margin-bottom: 30px;
+    background: #f8f9fa;
+    padding: 15px;
+    border-radius: 10px;
+}
+
+.control-group {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.control-group label {
+    font-size: 14px;
+    color: var(--text-main);
+    font-weight: bold;
+}
+
+.control-group input, .control-group select {
+    padding: 6px 10px;
+    border: 1px solid #ccd1d9;
+    border-radius: 5px;
+    font-size: 14px;
+    width: 150px;
+}
+
+.card-wrapper {
+    margin-bottom: 30px;
+}
+
+.card {
+    background: #ffffff;
+    border: 2px solid #eef2f3;
+    border-radius: 15px;
+    padding: 50px 20px;
+    min-height: 200px; /* 영어가 커진 만큼 최소 높이 확대 */
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    box-shadow: 0 5px 15px rgba(0,0,0,0.05);
+    text-align: center;
+}
+
+/* 위에 배치되는 영어 스타일 */
+.text-en {
+    font-size: 33px; /* 22px에서 50% 키운 33px */
+    font-weight: 600;
+    color: var(--text-sub);
+    margin-bottom: 20px; /* 아래에 있는 한글과의 간격 */
+    word-break: keep-all;
+    opacity: 0;
+    transform: translateY(-10px); /* 자연스럽게 위에서 내려오도록 변경 */
+    transition: opacity 0.5s ease, transform 0.5s ease;
+}
+
+.text-en.show {
+    opacity: 1;
+    transform: translateY(0);
+}
+
+/* 아래에 배치되는 한글 스타일 */
+.text-ko {
+    font-size: 26px;
+    font-weight: bold;
+    color: var(--text-main);
+    word-break: keep-all;
+}
+
+.button-panel {
+    display: flex;
+    justify-content: center;
+    gap: 20px;
+}
+
+.button-panel button {
+    padding: 10px 25px;
+    font-size: 16px;
+    border: none;
+    background-color: #3498db;
+    color: white;
+    border-radius: 5px;
+    cursor: pointer;
+    transition: background 0.2s;
+}
+
+.button-panel button:hover {
+    background-color: #2980b9;
+}
+
+#toggleBtn {
+    background-color: #2ecc71;
+}
+#toggleBtn.paused {
+    background-color: #e74c3c;
+}

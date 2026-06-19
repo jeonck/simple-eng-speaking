@@ -1,0 +1,398 @@
+[
+  {
+    "ko": "이거 맘에 들어요",
+    "en": "I like this"
+  },
+  {
+    "ko": "이런 우연이 있네요",
+    "en": "What a coincidence"
+  },
+  {
+    "ko": "어디서 오셨어요",
+    "en": "Where are you from"
+  },
+  {
+    "ko": "머리가 아파요",
+    "en": "I got a headache"
+  },
+  {
+    "ko": "정말요",
+    "en": "Are you sure"
+  },
+  {
+    "ko": "정말 보고 싶어요",
+    "en": "I really miss you"
+  },
+  {
+    "ko": "아직 잘 모르겠어요",
+    "en": "I am not sure yet"
+  },
+  {
+    "ko": "당신이 결정하세요",
+    "en": "It's up to you"
+  },
+  {
+    "ko": "같이 가요",
+    "en": "Let's go together"
+  },
+  {
+    "ko": "좋은 시간 보내세요",
+    "en": "Have a good time"
+  },
+  {
+    "ko": "같이 여행 온 일행이 있어요",
+    "en": "I have a friend traveling with me"
+  },
+  {
+    "ko": "아프다니 안쓰러워요",
+    "en": "I'm sorry that you're sick"
+  },
+  {
+    "ko": "에이미 이름으로 예약했어요",
+    "en": "I made a reservation under Amy"
+  },
+  {
+    "ko": "얘기하자면 길어요",
+    "en": "It's a long story"
+  },
+  {
+    "ko": "늦지 않았어요",
+    "en": "It's not late"
+  },
+  {
+    "ko": "생각해 볼게요",
+    "en": "I'll think about it"
+  },
+  {
+    "ko": "너무 비싸요",
+    "en": "It's too expensive"
+  },
+  {
+    "ko": "배고프세요",
+    "en": "Are you hungry"
+  },
+  {
+    "ko": "체크인 하려고요",
+    "en": "I just need to check in"
+  },
+  {
+    "ko": "정말 목말라요",
+    "en": "I am very thirsty"
+  },
+  {
+    "ko": "벌써 가는 거예요",
+    "en": "Are you leaving already"
+  },
+  {
+    "ko": "내일 계획이 어떻게 되세요",
+    "en": "What's your plan for tomorrow"
+  },
+  {
+    "ko": "알아내 보아요",
+    "en": "Let's find out"
+  },
+  {
+    "ko": "4인 가족이에요",
+    "en": "We are a family of four"
+  },
+  {
+    "ko": "신경 안 써요",
+    "en": "I don't care"
+  },
+  {
+    "ko": "저 좀 태워 주실 수 있나요",
+    "en": "Can you give me a ride"
+  },
+  {
+    "ko": "거기서 봐요",
+    "en": "See you there"
+  },
+  {
+    "ko": "찾아가 봐요",
+    "en": "Let's go find out"
+  },
+  {
+    "ko": "관광 목적으로 왔어요",
+    "en": "I'm here for sightseeing"
+  },
+  {
+    "ko": "어디 보자",
+    "en": "Let me see"
+  },
+  {
+    "ko": "다음에요",
+    "en": "Next time"
+  },
+  {
+    "ko": "오랜만이에요",
+    "en": "It's been a long time"
+  },
+  {
+    "ko": "여권을 잃어버렸어요",
+    "en": "I lost my passport"
+  },
+  {
+    "ko": "방문하신 목적이 뭔가요",
+    "en": "What is the purpose of your visit"
+  },
+  {
+    "ko": "모르겠어요",
+    "en": "I don't know"
+  },
+  {
+    "ko": "유감이에요",
+    "en": "I'm sorry to hear that"
+  },
+  {
+    "ko": "입어봐도 될까요",
+    "en": "Can I try it on"
+  },
+  {
+    "ko": "어떻게 생각해",
+    "en": "What do you think"
+  },
+  {
+    "ko": "한국인이세요",
+    "en": "Are you Korean"
+  },
+  {
+    "ko": "새해 복 많이 받으세요",
+    "en": "Happy New Year"
+  },
+  {
+    "ko": "잘 안 들려요",
+    "en": "I can't hear you"
+  },
+  {
+    "ko": "죄송해요 너무 바빠요",
+    "en": "Sorry, I am tied up"
+  },
+  {
+    "ko": "제 방을 청소해 주세요",
+    "en": "Please clean my room"
+  },
+  {
+    "ko": "네, 부탁해요",
+    "en": "Yes, please"
+  },
+  {
+    "ko": "얼마예요",
+    "en": "How much is this"
+  },
+  {
+    "ko": "어떻게 지내세요",
+    "en": "How are you doing"
+  },
+  {
+    "ko": "여기에 적어주시겠어요",
+    "en": "Can you write it down here"
+  },
+  {
+    "ko": "없는 거보단 낫죠",
+    "en": "It's better than nothing"
+  },
+  {
+    "ko": "괜찮으세요",
+    "en": "Are you okay"
+  },
+  {
+    "ko": "5시에요",
+    "en": "It's five o'clock"
+  },
+  {
+    "ko": "지금 하고 있어요",
+    "en": "I'm working on it"
+  },
+  {
+    "ko": "여기 가고 싶어요",
+    "en": "I want to go here"
+  },
+  {
+    "ko": "입에 맞아요",
+    "en": "Do you like it"
+  },
+  {
+    "ko": "가는 길이에요",
+    "en": "I'm on my way"
+  },
+  {
+    "ko": "웃음을 참을 수가 없네요",
+    "en": "I can't help laughing"
+  },
+  {
+    "ko": "지금은 남자친구가 없어요",
+    "en": "I don't have a boyfriend now"
+  },
+  {
+    "ko": "늦어서 죄송해요",
+    "en": "I'm sorry I'm late"
+  },
+  {
+    "ko": "말로 하기 어려워요",
+    "en": "It's hard to say"
+  },
+  {
+    "ko": "여기서 드세요",
+    "en": "For here"
+  },
+  {
+    "ko": "무슨 말씀이시죠",
+    "en": "What do you mean"
+  },
+  {
+    "ko": "오늘은 1월 2일이에요",
+    "en": "Today is January second"
+  },
+  {
+    "ko": "당신 잘못이 아니에요",
+    "en": "It's not your fault"
+  },
+  {
+    "ko": "말할 수 없어요",
+    "en": "I cannot say"
+  },
+  {
+    "ko": "여기 앉으면 싫으실까요",
+    "en": "Do you mind if I sit here"
+  },
+  {
+    "ko": "안녕하세요, 화이트 씨와 통화할 수 있을까요",
+    "en": "Hello, may I speak to Mr. White"
+  },
+  {
+    "ko": "붉은 와인 한 잔 주세요",
+    "en": "I'd like a glass of red wine"
+  },
+  {
+    "ko": "그것들은 너무 커요",
+    "en": "They're too large"
+  },
+  {
+    "ko": "아니요, 제 건 파란색이에요",
+    "en": "No, mine is blue"
+  },
+  {
+    "ko": "제가 쏠게요",
+    "en": "It's on me"
+  },
+  {
+    "ko": "전 너무 실망했어요",
+    "en": "I'm very disappointed"
+  },
+  {
+    "ko": "질문 하나 해도 될까요",
+    "en": "May I ask a question"
+  },
+  {
+    "ko": "신경 쓰지 마세요",
+    "en": "Never mind"
+  },
+  {
+    "ko": "잘 자요",
+    "en": "Good night"
+  },
+  {
+    "ko": "다들 그래요",
+    "en": "Everyone does it"
+  },
+  {
+    "ko": "일어나 계세요",
+    "en": "Are you awake"
+  },
+  {
+    "ko": "서둘러요",
+    "en": "Hurry up"
+  },
+  {
+    "ko": "알겠습니다",
+    "en": "I got it"
+  },
+  {
+    "ko": "거의 다 왔어요",
+    "en": "Almost there"
+  },
+  {
+    "ko": "충분한가요",
+    "en": "Is that enough"
+  },
+  {
+    "ko": "휴식 시간은 언제인가요",
+    "en": "When is the intermission"
+  },
+  {
+    "ko": "기분이 어떠세요",
+    "en": "How do you feel"
+  },
+  {
+    "ko": "뭐 하고 있어요",
+    "en": "What are you up to"
+  },
+  {
+    "ko": "무슨 일이에요",
+    "en": "What happened"
+  },
+  {
+    "ko": "오늘 무슨 요일이죠",
+    "en": "What day is today"
+  },
+  {
+    "ko": "진심이에요",
+    "en": "Are you serious"
+  },
+  {
+    "ko": "그건 무엇을 위한 건가요",
+    "en": "What's that for"
+  },
+  {
+    "ko": "정말 많이 배웠습니다",
+    "en": "I really learned a lot"
+  },
+  {
+    "ko": "이해가 되네요",
+    "en": "It makes sense"
+  },
+  {
+    "ko": "몇 시에 일어나셨어요",
+    "en": "What time did you get up"
+  },
+  {
+    "ko": "무슨 일인가요",
+    "en": "What's wrong"
+  },
+  {
+    "ko": "다시 시작할 수 있나요",
+    "en": "Can we start over"
+  },
+  {
+    "ko": "다시 한번 말씀해 주시겠어요",
+    "en": "Can you repeat again"
+  },
+  {
+    "ko": "택시 탑시다",
+    "en": "Let's take a taxi"
+  },
+  {
+    "ko": "정말 피곤해요",
+    "en": "I am very tired"
+  },
+  {
+    "ko": "그쪽 차례입니다",
+    "en": "It's your turn"
+  },
+  {
+    "ko": "혼자 있게 해주세요",
+    "en": "Please leave me alone"
+  },
+  {
+    "ko": "그거 좋은데요",
+    "en": "It sounds great"
+  },
+  {
+    "ko": "이건 어때요",
+    "en": "How about this one"
+  },
+  {
+    "ko": "다 좋아요, 그쪽은요",
+    "en": "All good, how about you"
+  }
+]

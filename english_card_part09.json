@@ -1,0 +1,422 @@
+[
+  {
+    "ko": "당신은 멍청하지 않아요.",
+    "en": "You are not dumb."
+  },
+  {
+    "ko": "천천히 하세요.",
+    "en": "Take your time."
+  },
+  {
+    "ko": "내 말 끝까지 들어보세요.",
+    "en": "Hear me out."
+  },
+  {
+    "ko": "제가 아는 한은요.",
+    "en": "Not that I know of."
+  },
+  {
+    "ko": "몸이 안 좋습니다.",
+    "en": "I feel sick."
+  },
+  {
+    "ko": "그래 보입니다.",
+    "en": "It looks like it."
+  },
+  {
+    "ko": "뻔할 뻔자예요 (초등학생도 알겠어요).",
+    "en": "It's a no-brainer."
+  },
+  {
+    "ko": "곤경에 처했어요.",
+    "en": "I'm in a jam."
+  },
+  {
+    "ko": "그건 내가 결정합니다.",
+    "en": "It's my call."
+  },
+  {
+    "ko": "망쳤어요.",
+    "en": "I blew it."
+  },
+  {
+    "ko": "완전히 망쳤어요.",
+    "en": "I messed up."
+  },
+  {
+    "ko": "제가 도와드릴게요.",
+    "en": "I'm here to help."
+  },
+  {
+    "ko": "내가 지켜줄게요.",
+    "en": "I've got your back."
+  },
+  {
+    "ko": "당신 편입니다.",
+    "en": "I'm on your side."
+  },
+  {
+    "ko": "몇 살로 보이나요?",
+    "en": "How old do I look?"
+  },
+  {
+    "ko": "21살로 보입니다.",
+    "en": "You look 21."
+  },
+  {
+    "ko": "동안이시네요.",
+    "en": "You look young for your age."
+  },
+  {
+    "ko": "정말 어려 보이시네요.",
+    "en": "You look so young."
+  },
+  {
+    "ko": "만나는 사람 있어요?",
+    "en": "Are you seeing anyone?"
+  },
+  {
+    "ko": "정말 뜬금없네요.",
+    "en": "That's so out of the blue."
+  },
+  {
+    "ko": "나 머리 잘랐어요.",
+    "en": "I got a haircut."
+  },
+  {
+    "ko": "차 빼주세요.",
+    "en": "Please move your car."
+  },
+  {
+    "ko": "차 빼주실래요?",
+    "en": "Can you move your car?"
+  },
+  {
+    "ko": "차 좀 빼 주시겠어요?",
+    "en": "Would you move your car?"
+  },
+  {
+    "ko": "나한테 관심 있어요?",
+    "en": "Are you into me?"
+  },
+  {
+    "ko": "당신한테 푹 빠졌어요.",
+    "en": "I'm so into you."
+  },
+  {
+    "ko": "뭐에 관심이 있어요?",
+    "en": "What are you into?"
+  },
+  {
+    "ko": "난 그거 별로예요.",
+    "en": "I'm not really into it."
+  },
+  {
+    "ko": "실례지만 여기 뭐가 맛있어요?",
+    "en": "Excuse me, what's good here?"
+  },
+  {
+    "ko": "추천 좀 해주시겠어요?",
+    "en": "What do you recommend?"
+  },
+  {
+    "ko": "저는 스테이크로 할게요.",
+    "en": "I'll have a steak."
+  },
+  {
+    "ko": "어떻게 구워 드릴까요?",
+    "en": "How would you like your steak?"
+  },
+  {
+    "ko": "화이트 와인 한 잔 주세요.",
+    "en": "I'll have a glass of white wine, please."
+  },
+  {
+    "ko": "더 주문하실 것 있으신가요?",
+    "en": "Will that be all?"
+  },
+  {
+    "ko": "절대 동감입니다.",
+    "en": "I couldn't agree more."
+  },
+  {
+    "ko": "전적으로 동의합니다.",
+    "en": "I agree with you one hundred percent."
+  },
+  {
+    "ko": "상기시켜 주셔서 감사합니다.",
+    "en": "Thank you for the reminder."
+  },
+  {
+    "ko": "그거 진짜로 할 수 있겠어요?",
+    "en": "Do you really think you can do that?"
+  },
+  {
+    "ko": "그것 절대 못 해낼 겁니다.",
+    "en": "You'll never pull it off."
+  },
+  {
+    "ko": "몇 시에 문 열어요?",
+    "en": "What time do you open?"
+  },
+  {
+    "ko": "몇 시에 문 닫아요?",
+    "en": "What time do you close?"
+  },
+  {
+    "ko": "솔직하게 말하자면.",
+    "en": "To be honest with you."
+  },
+  {
+    "ko": "진짜 솔직하게 말하자면.",
+    "en": "To be perfectly honest."
+  },
+  {
+    "ko": "전혀 말도 안 됩니다.",
+    "en": "It doesn't make any sense."
+  },
+  {
+    "ko": "좋게 생각해요.",
+    "en": "Look on the bright side."
+  },
+  {
+    "ko": "난 믿기 힘들어요.",
+    "en": "I find it hard to believe."
+  },
+  {
+    "ko": "난 명상이 힘들어요.",
+    "en": "I find it difficult to meditate."
+  },
+  {
+    "ko": "그건 믿기 힘들어요.",
+    "en": "I find that hard to believe."
+  },
+  {
+    "ko": "아주 로맨틱했어요.",
+    "en": "I found it very romantic."
+  },
+  {
+    "ko": "잠깐 얘기 좀 할 수 있어?",
+    "en": "Can I talk to you for a second?"
+  },
+  {
+    "ko": "이걸 어제부터 빨리 보고 싶어서 못 참겠어.",
+    "en": "I can't wait to see this yesterday."
+  },
+  {
+    "ko": "난 그녀를 본 적 없어.",
+    "en": "I haven't seen her."
+  },
+  {
+    "ko": "무슨 뜻으로 그러는 거야?",
+    "en": "What's that supposed to mean?"
+  },
+  {
+    "ko": "더할 나위 없이 감사해요.",
+    "en": "I can't thank you enough."
+  },
+  {
+    "ko": "산책 가자.",
+    "en": "Let's go for a walk."
+  },
+  {
+    "ko": "저녁은 내가 쏠게.",
+    "en": "Dinner's on me."
+  },
+  {
+    "ko": "내가 바로 돌아올게.",
+    "en": "I'll be right back."
+  },
+  {
+    "ko": "그냥 바람 좀 쐬야 했어.",
+    "en": "I just needed some fresh air."
+  },
+  {
+    "ko": "내 말 무슨 말인지 알지?",
+    "en": "You know what I mean."
+  },
+  {
+    "ko": "무슨 일 하세요?",
+    "en": "What do you do for a living?"
+  },
+  {
+    "ko": "설명할 필요 없어.",
+    "en": "No need to explain."
+  },
+  {
+    "ko": "너 주려고 뭐 좀 가져왔어.",
+    "en": "I brought you something."
+  },
+  {
+    "ko": "나 샤워할게.",
+    "en": "I'm gonna take a shower."
+  },
+  {
+    "ko": "좀 쉬도록 해.",
+    "en": "Get some rest."
+  },
+  {
+    "ko": "너 여기 얼마나 있었어?",
+    "en": "How long have you been here?"
+  },
+  {
+    "ko": "그거 정말 기대된다.",
+    "en": "I'm looking forward to it."
+  },
+  {
+    "ko": "어떻게 생각해?",
+    "en": "What do you think?"
+  },
+  {
+    "ko": "커피 마시러 가자.",
+    "en": "Let's go get some coffee."
+  },
+  {
+    "ko": "뭐 하고 싶어?",
+    "en": "What do you wanna do?"
+  },
+  {
+    "ko": "아닌 것 같은데.",
+    "en": "I don't think so."
+  },
+  {
+    "ko": "전 익숙해요.",
+    "en": "I'm used to it."
+  },
+  {
+    "ko": "누가 신경이나 쓴대?",
+    "en": "Who cares?"
+  },
+  {
+    "ko": "내가 질문 하나 할게.",
+    "en": "Let me ask you a question."
+  },
+  {
+    "ko": "난 네가 알았으면 해.",
+    "en": "I want you to know."
+  },
+  {
+    "ko": "너 내가 뭘 하길 원해?",
+    "en": "What do you want me to do?"
+  },
+  {
+    "ko": "그렇지, 잘했어.",
+    "en": "There you go."
+  },
+  {
+    "ko": "그 말 좀 그만해.",
+    "en": "Stop saying that."
+  },
+  {
+    "ko": "나한테 이러지 마.",
+    "en": "Don't do this to me."
+  },
+  {
+    "ko": "너무 안됐다, 아쉬워.",
+    "en": "That's too bad."
+  },
+  {
+    "ko": "내 말 좀 들어봐.",
+    "en": "Listen to me."
+  },
+  {
+    "ko": "금방 갈게.",
+    "en": "I'll be there."
+  },
+  {
+    "ko": "나 할 일 있어.",
+    "en": "I have to do something."
+  },
+  {
+    "ko": "그거에 대해 생각해 본 적 없어.",
+    "en": "I've never thought about that."
+  },
+  {
+    "ko": "그동안 어떻게 지냈어?",
+    "en": "How have you been?"
+  },
+  {
+    "ko": "더 붙들지 않을게요.",
+    "en": "I won't hold you up."
+  },
+  {
+    "ko": "계획이 먹히고 있어.",
+    "en": "The plan's working."
+  },
+  {
+    "ko": "날 들여보내 줘.",
+    "en": "Let me in."
+  },
+  {
+    "ko": "돈 때문이 아니야.",
+    "en": "It's not about the money."
+  },
+  {
+    "ko": "이건 나한테 맡겨.",
+    "en": "Leave that to me."
+  },
+  {
+    "ko": "1시간 거리야.",
+    "en": "It's an hour away."
+  },
+  {
+    "ko": "눈에 뭐가 들어갔어.",
+    "en": "I got something in my eye."
+  },
+  {
+    "ko": "인정하기 싫어.",
+    "en": "I hate to admit it."
+  },
+  {
+    "ko": "머리가 복잡해.",
+    "en": "I have a lot on my mind."
+  },
+  {
+    "ko": "더 자세히 설명해 주실 수 있어요?",
+    "en": "More specific, please."
+  },
+  {
+    "ko": "안 때려치울 거야.",
+    "en": "I'm not gonna quit."
+  },
+  {
+    "ko": "너 눈이 참 예쁘다.",
+    "en": "You have beautiful eyes."
+  },
+  {
+    "ko": "이걸 뭐라고 하더라.",
+    "en": "How can I put this?"
+  },
+  {
+    "ko": "내 속을 읽을 수 있어?",
+    "en": "Can you read my mind?"
+  },
+  {
+    "ko": "나 늦을 것 같아.",
+    "en": "I'm running late."
+  },
+  {
+    "ko": "셔츠 멋지다.",
+    "en": "I love your shirt."
+  },
+  {
+    "ko": "머리 자른 거 예쁘다.",
+    "en": "I like your haircut."
+  },
+  {
+    "ko": "내 마음대로 해.",
+    "en": "Have it your way."
+  },
+  {
+    "ko": "정말 진심이야?",
+    "en": "Are you for real?"
+  },
+  {
+    "ko": "과대평가 됐어.",
+    "en": "It's overrated."
+  },
+  {
+    "ko": "뭘 기다리고 있어?",
+    "en": "What are you waiting for?"
+  }
+]
